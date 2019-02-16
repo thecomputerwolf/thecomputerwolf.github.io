@@ -1,0 +1,146 @@
+.title_header {
+``margin: 20px;
+	text-align: center;
+	font-size: 21px;
+	font-family: sans-serif;
+	margin: auto;
+  width: 50%;
+  padding-top: 28px;
+	align-content: center;
+	font-weight: bold;
+}
+
+.container {
+	display: flex;
+	background: white;
+	justify-content: center;
+	align-items: center;
+	height: 80vh;
+	width: 100%;
+}
+
+.video {
+	width: 100%;
+}
+
+.c-video {
+	width: 100%;
+	max-width: 1000px;
+	position: relative;
+	/*overflow: hidden;*/
+}
+
+/*.c-video:hover .controls {
+	transform: translateY(0);
+}*/
+
+.controls {
+	display: flex;
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	flex-wrap: wrap;
+	background: rgba(0, 0, 0, 0.7);
+	transform: translateY(100%) translateY(-5px);
+	transition: all .2s;
+}
+
+.buttons {
+	padding: 10px;
+}
+
+.buttons button {
+	background: none;
+	border: 0;
+	outline: 0;
+	cursor: pointer;
+	float: left;
+}
+
+.buttons button:before {
+	content: '\f144';
+	font-family: 'Font Awesome 5 Free';
+	width: 30px;
+	height: 30px;
+	display: inline-block;
+	font-size: 28px;
+	color: #fff;
+	-webkit-font-smoothing: antialiased;
+}
+
+.buttons button.play:before {
+	content: '\f144';
+}
+
+.buttons button.pause:before {
+	content: '\f28b';
+}
+
+.orange-bar {
+	height: 50px;
+	top: 0;
+	left: 0;
+	background: black;
+	width: 100%;
+	font-size: 0;
+}
+
+.orange-juice {
+	height: 10px;
+	width: 19%;
+	margin-top: 20px;
+	font-size: 0;
+}
+
+.frame {
+	position: relative;
+	display: inline-block;
+	width: 0.125%;
+	height: 4px;
+	margin-top: 23px;
+	margin-bottom: 23px;
+	background-color: #D92121;
+}
+
+.scrubber {
+	height: 50px;
+	position: absolute;
+	width: 5px;
+	background-color: blue;
+	z-index: 1000;
+}
+
+#timeDemo {
+	color: white;
+	margin: auto;
+  padding-left: 103px;
+	float: right;
+	position: absolute;
+}
+
+#sectionTitle {
+	color: white;
+	display: inline-block;
+	margin: auto;
+	font-family: sans-serif;
+}
+
+#previous:before {
+	content: '\f100';
+	font-family: 'Font Awesome 5 Free';
+	width: 30px;
+	height: 30px;
+	display: inline-block;
+	font-size: 28px;
+	color: #fff;
+}
+
+#next:before {
+	content: '\f101';
+	font-family: 'Font Awesome 5 Free';
+	width: 30px;
+	height: 30px;
+	display: inline-block;
+	font-size: 28px;
+	color: #fff;
+}
