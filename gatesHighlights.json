@@ -1,24 +1,14 @@
 {
   "these": [
-		{"section_title": "\"String Theory\" by David Foster Wallace", "start_time": 8, "end_time": 30, "section_rank": 1, "context_start_time": 0, "context_end_time": 183},
-		{"section_title": "\"Shoe Dog\" by Phil Knight", "start_time": 36, "end_time": 50, "section_rank": 2, "context_start_time": 184, "context_end_time": 582},
-  	{"section_title": "\"The Myth of The Strong Leader\" by Archie Brown", "start_time": 61, "end_time": 81, "section_rank": 3, "context_start_time": 583, "context_end_time": 859},
-		{"section_title": "\"The Grid\" by Getchen Bakke", "start_time": 92, "end_time": 108, "section_rank": 4, "context_start_time": 860, "context_end_time": 1072},
-		{"section_title": "The Gene by Siddhartha Mukherjee", "start_time": 116, "end_time": 130, "section_rank": 5, "context_start_time": 1073, "context_end_time": 1267},
-		{"section_title": "Born a Crime by Trevor Noah", "start_time": 167, "end_time": 185, "section_rank": 6, "context_start_time": 1073, "context_end_time": 1267},
-		{"section_title": "Hillbilly Elegy by J.D Vance", "start_time": 192, "end_time": 208, "section_rank": 7, "context_start_time": 1073, "context_end_time": 1267},
-		{"section_title": "The Heart by Maylis de Kerangal", "start_time": 220, "end_time": 234, "section_rank": 8, "context_start_time": 1073, "context_end_time": 1267},
-		{"section_title": "A Full Life by Jimmy Carter", "start_time": 238, "end_time": 250, "section_rank": 9, "context_start_time": 1073, "context_end_time": 1267},
-		{"section_title": "Homo Deus by Yuval Noah Harari", "start_time": 256, "end_time": 270, "section_rank": 10, "context_start_time": 1073, "context_end_time": 1267},
-		{"section_title": "Lincoln in the Bardo by George Saunders", "start_time": 292, "end_time": 309, "section_rank": 11, "context_start_time": 1073, "context_end_time": 1267},
-		{"section_title": "Everything Happens for a Reason by Kate Bowler", "start_time": 317, "end_time": 330, "section_rank": 12, "context_start_time": 1073, "context_end_time": 1267},
-		{"section_title": "Origin Story by David Christian", "start_time": 343, "end_time": 350, "section_rank": 13, "context_start_time": 1073, "context_end_time": 1267},
-		{"section_title": "Factfulness by Hans Rosling", "start_time": 372, "end_time": 385, "section_rank": 14, "context_start_time": 1073, "context_end_time": 1267},
-		{"section_title": "Leonardo da Vinci by Walter Isaacson", "start_time": 407, "end_time": 415, "section_rank": 15, "context_start_time": 1073, "context_end_time": 1267},
-		{"section_title": "Educated by Kara Westover", "start_time": 466, "end_time": 475, "section_rank": 16, "context_start_time": 1073, "context_end_time": 1267},
-		{"section_title": "21 Lessons for the 21 Century by Yuval Noah Harari", "start_time": 487, "end_time": 492, "section_rank": 17, "context_start_time": 1073, "context_end_time": 1267},
-		{"section_title": "Meditation & Mindfulness by Andy Puddicombe", "start_time": 509, "end_time": 515, "section_rank": 18, "context_start_time": 1073, "context_end_time": 1267},
-		{"section_title": "Army of None by Paul Sharre", "start_time": 531, "end_time": 542, "section_rank": 19, "context_start_time": 1073, "context_end_time": 1267},
-		{"section_title": "Bad Blood by John Carreyrou", "start_time": 562, "end_time": 570, "section_rank": 20, "context_start_time": 1073, "context_end_time": 1267}
+		{"section_title": "\"String Theory\" by David Foster Wallace", "start_time": 8, "end_time": 13, "section_rank": 1, "context_start_time": 0, "context_end_time": 183},
+		{"section_title": "\"Shoe Dog\" by Phil Knight", "start_time": 36, "end_time": 41, "section_rank": 1, "context_start_time": 184, "context_end_time": 582},
+  	{"section_title": "\"The Myth of The Strong Leader\" by Archie Brown", "start_time": 61, "end_time": 66, "section_rank": 1, "context_start_time": 583, "context_end_time": 859},
+		{"section_title": "\"The Grid\" by Getchen Bakke", "start_time": 93, "end_time": 97, "section_rank": 1, "context_start_time": 860, "context_end_time": 1072},
+		{"section_title": "\"The Gene\" by Siddhartha Mukherjee", "start_time": 116, "end_time": 121, "section_rank": 1, "context_start_time": 1073, "context_end_time": 1267},
+		{"section_title": "\"Lincoln in the Bardo\" by George Saunders", "start_time": 165, "end_time": 169, "section_rank": 1, "context_start_time": 1073, "context_end_time": 1267},
+		{"section_title": "\"Everything Happens for a Reason\" by Kate Bowler", "start_time": 190, "end_time": 194, "section_rank": 1, "context_start_time": 1073, "context_end_time": 1267},
+		{"section_title": "\"Origin Story\" by David Christian", "start_time": 216, "end_time": 220, "section_rank": 1, "context_start_time": 1073, "context_end_time": 1267},
+		{"section_title": "\"Factfulness\" by Hans Rosling", "start_time": 245, "end_time": 249, "section_rank": 1, "context_start_time": 1073, "context_end_time": 1267},
+		{"section_title": "\"Leonardo da Vinci\" by Walter Isaacson", "start_time": 280, "end_time": 284, "section_rank": 1, "context_start_time": 1073, "context_end_time": 1267}
 		]
 }
