@@ -10,6 +10,10 @@
 	font-weight: bold;
 }
 
+.directions {
+	text-align: center;
+}
+
 .container {
 	display: flex;
 	background: white;
